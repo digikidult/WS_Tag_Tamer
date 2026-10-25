@@ -2961,7 +2961,7 @@ window.TAG_DATA={
       "id": 9,
       "name": "DM-キボウ",
       "effect": "對光線攻擊的抵抗力臨時提高 1 級",
-      "evolution": "巴達獸裝甲進化尼天馬獸",
+      "evolution": "巴達獸裝甲進化天馬獸",
       "obtain": "デジメンタルルーム/ 碎片合成 / D-3交換 /DT交換",
       "row": 11
     },
